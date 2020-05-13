@@ -10,7 +10,7 @@
                 </div>
                 <div class="percent">
                     <span>/</span>
-                    <input class="form-control input-lg" type="text" name="percent" value="" placeholder="5"/>
+                    <input class="form-control input-lg" type="text" name="percent" value="" placeholder="0"/>
                     %
                 </div>
             </form>
